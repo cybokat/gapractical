@@ -1,0 +1,2 @@
+# gapractical
+Genetic analysis practical

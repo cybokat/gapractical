@@ -1,0 +1,9 @@
+ArrayDataFile	SourceName	FactorValue	Patient
+Patient 1-Tumor	Patient 1-Tumor	Tumor	1
+Patient 2-Tumor	Patient 2-Tumor	Tumor	2
+Patient 3-Tumor	Patient 3-Tumor	Tumor	3
+Patient 4-Tumor	Patient 4-Tumor	Tumor	4
+Patient 1-Adjacent	Patient 1-Adjacent	Adjacent	1
+Patient 2-Adjacent	Patient 2-Adjacent	Adjacent	2
+Patient 3-Adjacent	Patient 3-Adjacent	Adjacent	3
+Patient 4-Adjacent	Patient 4-Adjacent	Adjacent	4
